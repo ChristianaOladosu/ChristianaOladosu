@@ -1,72 +1,112 @@
-# Hi, I'm Christiana Oladosu 👋
+<div align="center">
 
-### Full-Stack Developer | Building Practical Digital Solutions
+<img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:111827,50:312E81,100:7C3AED&text=Christiana%20Oladosu&fontColor=FFFFFF&fontSize=45&fontAlignY=45&desc=FULL-STACK%20DEVELOPER&descAlignY=65&descSize=17" width="100%" />
 
-I'm a developer passionate about turning ideas into functional, meaningful digital products. I enjoy exploring how technology can solve real-world problems, improve processes and create better experiences.
+<br/>
 
-I work across frontend and backend development, building applications with modern web technologies.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Building+Practical+Digital+Products;Full-Stack+Developer;React+%7C+Node.js+%7C+PostgreSQL;Learning%2C+Building%2C+Improving." />
 
----
+<br/>
 
-### 👩🏽‍💻 About Me
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/ChristianaOladosu)
+[![Email](https://img.shields.io/badge/Email-Contact_Me-7C3AED?style=for-the-badge&logo=gmail&logoColor=white)](mailto:christianaolaadosu@gmail.com)
 
-- 🔭 I'm currently building **VERITY**, a financial accountability platform for Nigerian private schools.
-- 🌱 I'm growing my skills in full-stack development, backend engineering and AI.
-- 💻 I enjoy working with React, Node.js and PostgreSQL.
-- 🧠 I have a background in Linguistics and African Languages from the University of Ibadan.
-- 🎯 My goal is to build useful, scalable products that make a meaningful difference.
-- 🤝 I'm open to learning opportunities, collaboration and interesting projects.
+</div>
 
 ---
 
-### 🛠️ Technologies & Tools
+## 👩🏽‍💻 About Me
 
-**Frontend**
-- HTML
-- CSS
-- JavaScript
-- React
+I'm a developer passionate about turning ideas into functional, meaningful digital products.
 
-**Backend**
-- Node.js
-- Express.js
-- PostgreSQL
+I enjoy working across frontend and backend development, exploring how technology can solve real-world problems and improve everyday experiences.
 
-**Tools**
-- Git
-- GitHub
-- VS Code
+- 🔭 Building **VERITY**, a financial accountability platform for Nigerian private schools.
+- 🌱 Growing my skills in backend engineering, full-stack development and AI.
+- 💡 Interested in software engineering, product development and problem-solving.
+- 🎓 Background in Linguistics and African Languages, University of Ibadan.
+- 🤝 Open to collaboration, learning opportunities and interesting projects.
 
 ---
 
-### 🚀 Featured Projects
+## ⚡ Technologies & Tools
 
-#### VERITY
-A financial management and accountability platform designed to help Nigerian private schools manage school fees, track payments and maintain financial transparency.
+<div align="center">
 
-**Technologies:** React, Node.js, Express.js, PostgreSQL
+### Frontend
 
-#### Aurelle
-A website created for a beauty and skincare brand, focused on presenting its products and brand identity.
+<img src="https://skillicons.dev/icons?i=html,css,js,react" />
 
-**Technologies**:HTML, CSS, JavaScript
+### Backend & Database
 
----
+<img src="https://skillicons.dev/icons?i=nodejs,express,postgres" />
 
-### 🌱 Current Focus
+### Development Tools
 
-- Strengthening my backend development skills.
-- Building full-stack applications.
-- Learning more about APIs, databases and application architecture.
-- Exploring practical applications of AI.
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+
+</div>
 
 ---
 
-### 📫 Let's Connect
+## 🚀 Featured Projects
 
-- **Email:** christianaolaadosu@gmail.com
-- **GitHub:** [@ChristianaOladosu](https://github.com/ChristianaOladosu)
+<table>
+<tr>
+<td width="50%">
+
+### VERITY
+
+A financial management and accountability platform designed to help Nigerian private schools manage fees, track payments and improve financial transparency.
+
+**Status:** In development.
+
+**Stack:** React, Node.js, Express, PostgreSQL.
+
+</td>
+<td width="50%">
+
+### Aurelle
+
+A website developed for a beauty and skincare brand, focused on presenting its products and brand identity.
+
+**Focus:** Brand presentation and web development.
+
+<a href="https://github.com/ChristianaOladosu/Aurelle">View Repository →</a>
+
+</td>
+</tr>
+</table>
 
 ---
 
-*Learning, building and growing one line of code at a time.* ✨
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=ChristianaOladosu&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChristianaOladosu&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+## 🌱 Currently Exploring
+
+- Backend architecture and API development.
+- Database design and management.
+- Secure and scalable application development.
+- Practical applications of Artificial Intelligence.
+
+---
+
+<div align="center">
+
+### Learning. Building. Improving.
+
+*One line of code at a time.* 💜
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,100:111827&height=100&section=footer" width="100%" />
+
+</div>
