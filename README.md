@@ -82,13 +82,11 @@ Web development · Visual presentation
 
 <div align="center">
 
-<img width="95%" src="https://github-stats-extended.vercel.app/api?username=ChristianaOladosu&show_icons=true&hide_border=true&bg_color=080D0B&title_color=00C781&icon_color=00C781&text_color=E5EEE8" />
+<img width="95%" src="https://github-readme-stats.vercel.app/api?username=ChristianaOladosu&show_icons=true&hide_border=true&bg_color=080D0B&title_color=00C781&icon_color=00C781&text_color=E5EEE8" />
 
-<br/>
+<img width="95%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChristianaOladosu&layout=compact&hide_border=true&bg_color=080D0B&title_color=00C781&text_color=E5EEE8" />
 
-<img width="95%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=ChristianaOladosu&layout=compact&hide_border=true&bg_color=080D0B&title_color=00C781&text_color=E5EEE8" />
-
-</div>>
+</div>
 
 ## CURRENT DIRECTION
 
